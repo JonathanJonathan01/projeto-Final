@@ -47,6 +47,11 @@
 <!-- MENU DESKTOP -->
 <div class="container-fluid" id="menutopo">
   <div class="row">
+    <div class="col2" id="col2">
+      <div id="divimgtopo">
+        <img src="images/imgmenu.png">
+      </div>
+    </div>
     <div class="col" id="col1">
       <ul id="itenstopo">
         <li><a href="login.php">LOGIN</a></li>
@@ -54,13 +59,8 @@
         <li><a href="#sobre">SOBRE</a></li>
         <li><a href="#contato">CONTATO</a></li>
       </ul>
-    </div>
-    <div class="col" id="col2">
-      <div id="divimgtopo">
-        <img src="images/imgmenu.png">
-      </div>
-    </div>
-    <div class="col" id="col3">
+    </div>    
+    <div class="col4" id="col3">
       <ul id="itenstopoleft">
         <li><a href="#"><img src="images/fb.png"></a></li>
         <li><a href="#"><img src="images/insta.png"></a></li>

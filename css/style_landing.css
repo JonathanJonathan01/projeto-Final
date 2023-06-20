@@ -339,7 +339,7 @@
       }
 
       #hamburger-menu #sidebar-menu {
-          visibilty: hidden;
+          visibility: hidden;
           position: fixed;
           top: 0;
           left: -250px;
@@ -395,14 +395,6 @@
         padding-left: 138px;
       }
 
-      #divimgtopo{
-        background-color: white;
-        height: 170px;
-        width: 180px;
-        padding-top: 25px;
-        padding-left: 15px;
-      }
-
       #itenstopo{
         list-style-type: none;
         margin: 0;
@@ -418,7 +410,7 @@
       #itenstopo li a {
         color: var(--unnamed-color-303030);
         text-align: left;
-        font: normal normal bold 14px/19px Noto Sans;
+        font: normal normal bold 19px/19px Noto Sans;
         letter-spacing: 0px;
         color: #303030;
         text-transform: uppercase;
