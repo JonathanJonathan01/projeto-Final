@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";//padrao, local
-$database = "estoque"; //nome do banco de dados
+$database = "usuarios"; //nome do banco de dados
 $username = "root"; //padrao - root
 $password = ""; //senha da conexao com o banco
 
